@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingStart="@dimen/layout_padding"
+    android:paddingEnd="@dimen/layout_padding"
+    tools:context=".fragments.home.HomeFragment">
+
+    <include
+        android:id="@+id/player_top_navbar"
+        layout="@layout/home_fragment_navbar_layout" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/main_fragment_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp" />
+</LinearLayout>

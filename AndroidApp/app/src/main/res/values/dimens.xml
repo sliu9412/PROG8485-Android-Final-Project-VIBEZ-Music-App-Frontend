@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_padding">30dp</dimen>
+    <dimen name="paragraph_padding">15dp</dimen>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="top_navbar_title_font_size">18sp</dimen>
+    <dimen name="top_navbar_icon_size">22dp</dimen>
+    <!--player activity-->
+    <dimen name="player_image_margin_bottom">35dp</dimen>
+    <dimen name="player_music_title_margin_bottom">15dp</dimen>
+    <dimen name="player_seekbar_margin_bottom">40dp</dimen>
+    <dimen name="player_music_title_font_size">35sp</dimen>
+    <dimen name="playlist_top_navbar_bac_btn_width">13dp</dimen>
+    <!--    player list activity-->
+    <dimen name="list_item_height">70dp</dimen>
+    <!--    account activity-->
+    <dimen name="account_items_margin_bottom">10dp</dimen>
+    <dimen name="account_logo">260dp</dimen>
+    <dimen name="profile_picture">150dp</dimen>
+</resources>

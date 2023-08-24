@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AndroidFinal</string>
+    <string name="authorization_fail_btn">Return to Home</string>
+    <string name="authorization_fail_text">Your Spotify Authorization Process May be Failed, Please Return to Home and Try Again</string>
+    <!-- player activity -->
+    <string name="player_top_navbar_title">My Playlists</string>
+    <string name="player_music_title"> </string>
+    <string name="player_artist_name"> </string>
+    <string name="player_current_time_label">00:00</string>
+    <!--    main fragment-->
+    <string name="home_fragment_top_navbar">Home</string>
+    <string name="account_email">Email Address</string>
+    <string name="account_username">Username</string>
+    <string name="account_password">Password</string>
+    <string name="account_confirm_password">Confirm Password</string>
+    <string name="account_register_btn">REGISTER</string>
+    <string name="account_login_btn">LOGIN</string>
+
+    <!-- Common - Dialog buttons -->
+    <string name="dialog_ok_btn">Okay</string>
+    <string name="dialog_cancel_btn">Cancel</string>
+    <string name="dialog_info_title">Info</string>
+    <string name="dialog_error_title">Error</string>
+
+    <!-- Playlist detail Fragment -->
+    <string name="player_top_navbar_playlist_detail"></string>
+
+    <!-- Add Post Fragment -->
+    <string name="addpost_take_photo_btn">Take a Photo</string>
+    <string name="addpost_choose_album_btn">From Album</string>
+    <string name="addpost_publish">Publish</string>
+    <string name="addpost_comment">Write your comment</string>
+
+    <!-- Generic error -->
+    <string name="generic_gui_error">Something wrong occurs during</string>
+    <string name="generic_btn_cancel">Cancel</string>
+    <string name="generic_dialog_title">Confirm Operation</string>
+    <string name="generic_add_song">Add Song</string>
+    <string name="generic_next">NEXT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
